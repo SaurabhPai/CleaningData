@@ -1,13 +1,8 @@
----
-title: "CodeBook"
-author: "Saurabh Pai"
-date: "April 24, 2018"
-output: html_document
----
 #The Data set is created from the original UCI HAR Dataset. The data set provides the average of 64 variables of mean and Std. Deviation for each unique combination of Activity and Subject.
 #The First column 'Activity' defines which of the six activities is being measured.
 #The Second column 'Subject' defines which of the 30 subjects is undergoing measurement.
 #The 64 variable colums provide the average for the variable for the given Activity-Subject combination. The variables are named appropriately as follows:
+
 *3 tBodyAcc-mean()-X
 *4 tBodyAcc-mean()-Y
 *5 tBodyAcc-mean()-Z
